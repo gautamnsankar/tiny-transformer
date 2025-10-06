@@ -13,3 +13,5 @@ animals he sett of on.
 ```
 
 In the future, I would like to implement BPE (Byte Pair Encoding) to generate a more sensible output.
+
+**Requirements: Make sure you have a compiled version of torchlib in the project directory before running.**
